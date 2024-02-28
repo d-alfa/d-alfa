@@ -2,7 +2,7 @@
 
 - 🖥️ I've been coding in **Python** primarily for over 6 months
 - 👀 I’m interested in **Software development** and **Software engineering**
-- 🌱 I’m learning **Django** and **CI/CD** at the moment
+- 🌱 I’m learning **Django** and **Kubernetes** at the moment
 - 🔨 I'm currently working on **Dynamic Web Application**
 
 
