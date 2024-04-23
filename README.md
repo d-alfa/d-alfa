@@ -1,7 +1,7 @@
 ## Hi, I’m Alfonsas Dargis
 
-- 🖥️ I've been coding in **Python** primarily for over 9 months
-- 👀 I’m interested in **Data Analytics** and **Software development**
+- 🖥️ I've been coding in **Python** primarily for over a year
+- 👀 I’m interested in **Data engineering** and **Software engineering**
 - 🌱 I’m learning **Advanced Python Algorithms** and **Django** at the moment
 - 🔨 I'm currently working on **Dynamic Web Application**
 
